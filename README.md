@@ -16,9 +16,13 @@ npm install @material-ui/data-grid
 
 Sorting:
 
+![Sorting](https://giphy.com/gifs/6cK5E6lgCCo6i7Io5g)
+
 Filter:
+![Filter](https://giphy.com/gifs/OZRyekdDVvWZCNGKbp)
 
 Content Density:
+![Density](https://giphy.com/gifs/gkHd6FjkmH2CesFq2t)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
