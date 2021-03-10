@@ -16,6 +16,7 @@ npm install @material-ui/data-grid
 
 Sorting:
 
+<img src="https://giphy.com/gifs/6cK5E6lgCCo6i7Io5g"/>
 ![Sorting](https://giphy.com/gifs/6cK5E6lgCCo6i7Io5g)
 
 Filter:
