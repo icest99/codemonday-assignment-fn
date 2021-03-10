@@ -19,9 +19,11 @@ Sorting:
 ![Sorting](https://media1.giphy.com/media/6cK5E6lgCCo6i7Io5g/giphy.gif)
 
 Filter:
+
 ![Filter](https://media3.giphy.com/media/OZRyekdDVvWZCNGKbp/giphy.gif)
 
 Content Density:
+
 ![Density](https://media2.giphy.com/media/gkHd6FjkmH2CesFq2t/giphy.gif)
 
 ## Contributing
