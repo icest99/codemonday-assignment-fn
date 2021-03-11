@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/codemonday-assignment-fn/static/css/main.a9853a3f.chunk.css",
-    "main.js": "/codemonday-assignment-fn/static/js/main.57e2dd70.chunk.js",
-    "main.js.map": "/codemonday-assignment-fn/static/js/main.57e2dd70.chunk.js.map",
+    "main.js": "/codemonday-assignment-fn/static/js/main.30a19b38.chunk.js",
+    "main.js.map": "/codemonday-assignment-fn/static/js/main.30a19b38.chunk.js.map",
     "runtime-main.js": "/codemonday-assignment-fn/static/js/runtime-main.31e50153.js",
     "runtime-main.js.map": "/codemonday-assignment-fn/static/js/runtime-main.31e50153.js.map",
-    "static/js/2.d14588f9.chunk.js": "/codemonday-assignment-fn/static/js/2.d14588f9.chunk.js",
-    "static/js/2.d14588f9.chunk.js.map": "/codemonday-assignment-fn/static/js/2.d14588f9.chunk.js.map",
+    "static/js/2.6d135ba1.chunk.js": "/codemonday-assignment-fn/static/js/2.6d135ba1.chunk.js",
+    "static/js/2.6d135ba1.chunk.js.map": "/codemonday-assignment-fn/static/js/2.6d135ba1.chunk.js.map",
     "index.html": "/codemonday-assignment-fn/index.html",
     "static/css/main.a9853a3f.chunk.css.map": "/codemonday-assignment-fn/static/css/main.a9853a3f.chunk.css.map",
-    "static/js/2.d14588f9.chunk.js.LICENSE.txt": "/codemonday-assignment-fn/static/js/2.d14588f9.chunk.js.LICENSE.txt"
+    "static/js/2.6d135ba1.chunk.js.LICENSE.txt": "/codemonday-assignment-fn/static/js/2.6d135ba1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.31e50153.js",
-    "static/js/2.d14588f9.chunk.js",
+    "static/js/2.6d135ba1.chunk.js",
     "static/css/main.a9853a3f.chunk.css",
-    "static/js/main.57e2dd70.chunk.js"
+    "static/js/main.30a19b38.chunk.js"
   ]
 }
