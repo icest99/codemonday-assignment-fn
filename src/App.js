@@ -6,6 +6,7 @@ import {
   GridFilterToolbarButton,
   GridDensitySelector,
 } from "@material-ui/data-grid";
+import Paper from "@material-ui/core/Paper";
 import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
 import CssBaseline from "@material-ui/core/CssBaseline";
 
@@ -113,24 +114,26 @@ function App() {
       </div>
       <MuiThemeProvider theme={theme}>
         <div className="dataTable">
-          <DataGrid
-            id={Math.random()}
-            rows={rows}
-            columns={columns}
-            scrollbarSize={15}
-            pageSize={10}
-            disableColumnMenu={true}
-            components={{
-              Toolbar: CustomToolbar,
-            }}
-            autoHeight
-            sortModel={[
-              {
-                field: "totalcases",
-                sort: "desc",
-              },
-            ]}
-          />
+          <Paper>
+            <DataGrid
+              id={Math.random()}
+              rows={rows}
+              columns={columns}
+              scrollbarSize={15}
+              pageSize={10}
+              disableColumnMenu={true}
+              components={{
+                Toolbar: CustomToolbar,
+              }}
+              autoHeight
+              sortModel={[
+                {
+                  field: "totalcases",
+                  sort: "desc",
+                },
+              ]}
+            />
+          </Paper>
         </div>
       </MuiThemeProvider>
       <footer>
