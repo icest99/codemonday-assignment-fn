@@ -2,8 +2,6 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 import {
   DataGrid,
-  GridPreferencePanelsValue,
-  GridToolbar,
   GridToolbarContainer,
   GridFilterToolbarButton,
   GridDensitySelector,
@@ -46,7 +44,7 @@ function App() {
         setTime(
           new Date(result.Date).getDate() +
             "/" +
-            new Date(result.Date).getMonth() +
+            (new Date(result.Date).getMonth() + 1) +
             "/" +
             new Date(result.Date).getFullYear()
         );
